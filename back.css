@@ -1,0 +1,24 @@
+.mainimg{
+    background:linear-gradient(to bottom,#035f48,#05bbdf);
+}
+.backcolor{
+    background:linear-gradient(to bottom,#0c79d8,#2e0fc6);
+}
+.user{
+    margin-left: 10px;
+    margin-top:20px;
+    background-color:#11cbf0;
+    border-style: solid;
+    border-color: rgb(245, 238, 238);
+    border-radius: 5px;
+    width:250px;
+    height:30px;
+    
+}
+::placeholder{
+    color:white
+}
+.button{
+    background:linear-gradient(to right,#8eede8,#0fd1c7);
+    border:none;
+}
